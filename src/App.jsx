@@ -42,17 +42,17 @@ function Profile(props) {
               <h2>Projects</h2>
               <div>
                 <h3>Project 1</h3>
-                <a to=""></a>
+                <a href="https://garrison28.github.io/Gold/">Gold!</a>
 
               </div>
               <div>
                 <h3>Project 2</h3>
-                <a to=""></a>
+                <a href="https://morning-cliffs-87357.herokuapp.com/">Artist GO</a>
 
               </div>
               <div>
                 <h3>Project 3</h3>
-                <a to=""></a>
+                <a href="https://polar-sands-42976.herokuapp.com/">Stuter</a>
 
               </div>
               <div>
