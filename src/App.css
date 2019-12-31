@@ -1,6 +1,28 @@
-.App {
+.container {
   text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
 }
+
+/* .bkgrd-img {
+  background-image: url(https://unsplash.com/photos/RnCPiXixooY);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+} */
+
+.card-one {
+  color: aliceblue;
+  width: 50%;
+  margin: auto;
+  background-color: rgba(64, 69, 163, 0.376);
+  z-index: 5;
+}
+
 
 .App-logo {
   height: 40vmin;
